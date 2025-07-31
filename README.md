@@ -24,6 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - TypeScript support
 - SEO optimized
 
+## Deployment
+
+This project is automatically deployed to Vercel when pushed to GitHub.
+
 ## About
 
 Professional healthcare services for you and your family
